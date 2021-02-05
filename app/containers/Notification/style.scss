@@ -1,0 +1,14 @@
+.fixed-notification {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  transition: box-shadow 0.5s ease, padding 0.5s ease;
+}
+
+.sticky-notification {
+  margin-top: 40px!important;
+}
+
+.notification-message {
+  flex: 1;
+}
